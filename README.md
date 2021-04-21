@@ -2,7 +2,7 @@
 
 Author: Peter Staker
 
-Deployed URL:
+Deployed URL: [https://basic-api-server-ps.herokuapp.com/](https://basic-api-server-ps.herokuapp.com/)
 
 ## How to run locally
 
