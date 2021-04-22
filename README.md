@@ -4,18 +4,29 @@ Author: Peter Staker
 
 Deployed URL: [https://basic-api-server-ps.herokuapp.com/](https://basic-api-server-ps.herokuapp.com/)
 
-## How to run locally
+PR: [https://github.com/peterjast/basic-api-server/pull/1](https://github.com/peterjast/basic-api-server/pull/1)
 
-Fork or clone this repository
+* [tests report](https://github.com/peterjast/basic-api-server/actions)
 
-In your terminal, navigate into the new server-deployment-practice directory on your machine
+## Setup
 
-Enter "npm i" in your terminal to install dependencies
+### .env requirements
 
-Enter "npm start" in your terminal
+* PORT - Port Number
+
+### Dependencies
+
+> npm i
+
+### Running the app
+
+> npm start
+
+### Tests
+
+> npm run test
 
 ## Web Request Response Cycle
 
 ![WRRC](./assets/WRRC.jpg)
 
-PR: [https://github.com/peterjast/basic-api-server/pull/1](https://github.com/peterjast/basic-api-server/pull/1)
